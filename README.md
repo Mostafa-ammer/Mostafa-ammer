@@ -11,8 +11,7 @@ https://mostafa-ammer.github.io/netfilex/
 https://mostafa-ammer.github.io/coca-cola/
 https://mostafa-ammer.github.io/for-sale/
 
-<h1 align="center">Hi 👋, I'm Mostafa Amer</h1>
-<h3 align="center">frontend developer</h3>
+
 
 
 
