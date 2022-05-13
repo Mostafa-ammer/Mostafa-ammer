@@ -17,7 +17,7 @@ https://mostafa-ammer.github.io/for-sale/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mostafa37572852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafa37572852" height="30" width="40" /></a>
-<a href=https://www.linkedin.com/in/mostafa-amer-6626701b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa amer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mostafa-amer-6626701b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa amer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
