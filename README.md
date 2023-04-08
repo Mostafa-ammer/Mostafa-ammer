@@ -1,10 +1,8 @@
 ### Hi there 👋, My name is mostafa Amer
 #### I'am Machine Learning Engineer and Data Scientist
-![design and development](https://clslearn.com/wp-content/uploads/2019/05/front-end-developer-banner-1.jpg)
-
+![Artifical Intelligence](https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Data_Science_Facts.jpg)
 My name is Mostafa Amer , My jop is Data Scientist,I really enjoy learning languages and different Framework like Python , I executed some projects in 
 Macine Learning , Deep Learaning , Data Mining
-I Know Python, scikit-learn, pandas, matplotlib, numpy, scipy.
 
 Exambles of work :
 https://mostafa-ammer.github.io/netfilex/
@@ -19,7 +17,7 @@ https://mostafa-ammer.github.io/for-sale/
 
 - 👨‍💻 All of my projects are available at LINKED-IN [https://www.linkedin.com/in/mostafa-amer-6626701b4/](https://www.linkedin.com/in/mostafa-amer-6626701b4/)
 
-- 💬 Ask me about different designs **Js-React-js**
+- 💬 Ask me about  scikit-learn, pandas, matplotlib, numpy, scipy.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
