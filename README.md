@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is mostafa Amer
 #### I'am Machine Learning Engineer and Data Scientist
-![Artifical Intelligence]([https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1626244975/hevo-learn/datascience-1024x511-1.png])
+![Artifical Intelligence](["https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1626244975/hevo-learn/datascience-1024x511-1.png?_i=AA"])
 My name is Mostafa Amer , My jop is Data Scientist,I really enjoy learning languages and different Framework like Python , I executed some projects in 
 Macine Learning , Deep Learaning , Data Mining
 
