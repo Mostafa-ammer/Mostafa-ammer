@@ -2,6 +2,8 @@
 #### I'am Machine Learning Engineer and Data Scientist
 ![68747470733a2f2f747261626579612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f66696e2d627261696e322d312e676966](https://user-images.githubusercontent.com/73859325/230726030-83096f86-a928-4679-9377-5a85a4b6abeb.gif)
 
+
+<img src="https://user-images.githubusercontent.com/73859325/230726030-83096f86-a928-4679-9377-5a85a4b6abeb.gif"/>
 My name is Mostafa Amer , My jop is Data Scientist,I really enjoy learning languages and different Framework like Python , I executed some projects in 
 Macine Learning , Deep Learaning , Data Mining
 
