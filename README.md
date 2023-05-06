@@ -10,11 +10,11 @@ Macine Learning , Deep Learaning , Data Mining
 
 Exambles of work : 
 
-https://mostafa-ammer.github.io/netfilex/
+https://github.com/Mostafa-ammer/Machine-Learning-Projects/blob/main/COVID-19%20Outcome%20Prediction.ipynb
 
-https://mostafa-ammer.github.io/coca-cola/
+[https://mostafa-ammer.github.io/coca-cola/](https://github.com/Mostafa-ammer/Deep-Learning-Projects/blob/main/Leaf%20Classification.ipynb)
 
-https://mostafa-ammer.github.io/for-sale/
+[https://mostafa-ammer.github.io/for-sale/](https://github.com/Mostafa-ammer/Data-Mining-Projects/blob/main/Anti-cancer%20activity%20prediction.ipynb)
 
 
 https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1626244975/hevo-learn/datascience-1024x511-1.png?_i=AA
