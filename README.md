@@ -17,7 +17,9 @@ Exambles of work :
 3- https://github.com/Mostafa-ammer/Data-Mining-Projects/blob/main/Anti-cancer%20activity%20prediction.ipynb
 
 
-https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1626244975/hevo-learn/datascience-1024x511-1.png?_i=AA
+
+
+
 
 
 - 🔭 I’m currently execute some projects [https://mostafa-ammer.github.io/for-sale/](https://mostafa-ammer.github.io/netfilex/)
