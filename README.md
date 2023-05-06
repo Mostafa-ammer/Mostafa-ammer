@@ -8,9 +8,12 @@
 My name is Mostafa Amer , My jop is Data Scientist,I really enjoy learning languages and different Framework like Python , I executed some projects in 
 Macine Learning , Deep Learaning , Data Mining
 
-Exambles of work :
+Exambles of work : 
+
 https://mostafa-ammer.github.io/netfilex/
+
 https://mostafa-ammer.github.io/coca-cola/
+
 https://mostafa-ammer.github.io/for-sale/
 
 
