@@ -18,7 +18,7 @@ Exambles of work :
 
 
 
-https://github.com/Mostafa-ammer/Data-Analytics/blob/main/Bank_Card_Transaction.ipynb
+
 
 
 
