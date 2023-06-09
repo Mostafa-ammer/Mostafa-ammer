@@ -1,9 +1,8 @@
 ### Hi there 👋, My name is mostafa Amer
 #### I'am Machine Learning Engineer and Data Scientist
 
-
-My name is Mostafa Amer , My jop is Data Scientist,I really enjoy learning languages and different Framework like Python , I executed some projects in 
-Macine Learning , Deep Learaning , Data Mining
+My name is Mostafa Amer , I am a master's student at Queen's University, specializing in data science. My master's degree is
+funded by the Digital Egypt Builders Initiative (DEBI),  My jop is Data Scientist,I really enjoy learning languages and different Framework , executed some projects in  Macine Learning , Deep Learaning , Data Mining
 
 Exambles of work : 
 
