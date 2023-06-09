@@ -18,11 +18,12 @@ Exambles of work :
 
 
 
+https://github.com/Mostafa-ammer/Data-Analytics/blob/main/Bank_Card_Transaction.ipynb
 
 
 
-
-- 🔭 I’m currently execute some projects [https://mostafa-ammer.github.io/for-sale/](https://mostafa-ammer.github.io/netfilex/)
+- 🔭 I’m currently execute some projects [https://github.com/Mostafa-ammer/Data-Analytics/blob/main/Bank_Card_Transaction.ipynb
+](https://mostafa-ammer.github.io/netfilex/)
 
 - 👨‍💻 All of my projects are available at LINKED-IN [https://www.linkedin.com/in/mostafa-amer-6626701b4/](https://www.linkedin.com/in/mostafa-amer-6626701b4/)
 
