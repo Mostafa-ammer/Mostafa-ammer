@@ -2,7 +2,7 @@
 #### I'am Machine Learning Engineer and Data Scientist
 
 My name is Mostafa Amer , I am a master's student at Queen's University, specializing in data science. My master's degree is
-funded by the Digital Egypt Builders Initiative (DEBI),  My jop is Data Scientist,I really enjoy learning languages and different Framework , executed some projects in  Macine Learning , Deep Learaning , Data Mining
+funded by the Digital Egypt Builders Initiative (DEBI),I really enjoy learning languages and different Framework ,I executed some projects in  Macine Learning , Deep Learaning , Data Mining and Data-Analytics 
 
 Exambles of work : 
 
